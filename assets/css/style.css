@@ -1,0 +1,110 @@
+.footer{
+    width: 1500px;
+}
+
+.fa 
+{
+      padding: 15px;
+      font-size: 30px;
+      width: 40px;
+      text-align: center;
+      text-decoration: none;
+      margin: 5px 2px;
+      border-radius: 50%;
+ }
+ 
+ .fa:hover {
+     opacity: 0.7;
+ }
+ 
+ .fa-facebook {
+   background: #3B5998;
+   color: white;
+ }
+ 
+ 
+
+ .fa-twitter{
+   background: #dd4b39;
+   color: white;
+ }
+ 
+ .fa-linkedin {
+   background: #007bb5;
+   color: white;
+ }
+ 
+ .fa-youtube {
+   background: #bb0000;
+   color: white;
+ }
+ 
+ .fa-instagram {
+   background: #f80476;
+   color: white;
+ }
+ 
+ .fa-github {
+   background: #d4f181;
+   color: white;
+ }
+
+ /*.news{
+    width: 649px; 
+    height:320px;
+    border:10px solid;
+    margin: 20px;
+    background-color: rgb(231, 255, 203);
+ }*/
+ .news{
+  width: 439px; 
+  height:320px;
+  border:10px solid;
+  margin: 20px;
+  background-color:rgb(231, 255, 203);
+}
+ 
+ .news1{
+  width: 383px; 
+  height:320px;
+  border:10px solid;
+  margin: 20px;
+  background-color:rgb(231, 255, 203);
+}
+.news2{
+  width: 433px; 
+  height:320px;
+  border:10px solid;
+  margin: 20px;
+  background-color:rgb(231, 255, 203);
+}
+ .newz_head{
+     text-align: center;
+     background-color: rgb(115, 255, 0);
+     color: crimson;
+    
+ }
+ .fa-whatsapp {
+  background: #00bb19;
+  color: white;
+}
+
+
+#container{
+  text-align: center;
+}
+
+
+.box {
+  position: relative;
+  width: 100%;
+  max-width: 250px;
+}
+
+.box .btn {
+  position: absolute;
+  top: 89%;
+  left: 117%;
+  transform: translate(-50%, -50%);
+  background-color: rgb(253, 250, 245);
+}
